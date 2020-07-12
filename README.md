@@ -1,4 +1,6 @@
-# Medical products
+# Joe Zott
+
+## Medical products
 
 https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
 
@@ -6,7 +8,7 @@ AV400
 
 AV300
 
-# Augmented Reality press
+## My augmented Reality press
 
 [Augmented Human: 5 Times I’ve Used Technology To Augment Myself](https://www.forbes.com/sites/cathyhackl/2020/07/05/augmented-human-5-times-ive-used-technology-to-augment-myself)
 
@@ -16,10 +18,12 @@ AV300
 
 [Why Your Business Should Pay Attention To Augmented Realty](https://www.forbes.com/sites/forbestechcouncil/2017/10/12/why-your-business-should-pay-attention-to-augmented-realty/)
 
-# Joe Zott
+## More about Joe Zott
 Engineering executive with broad technical, business and market experience. Expert in rapidly putting together virtual teams to exploit business opportunities as well as manage teams for long term profitability and customer satisfaction.
 
 Proven ability to deliver products under tight budget and schedule constraints with demanding specifications. Demonstrated team builder able to form and manage high performance teams. Able to act as a strong individual technical contributor with extensive software, electrical, semiconductor, systems, and mechanical engineering as well as program management experience. Proven experience in enabling marketing and sales teams to meet corporate business goals.
+
+[LinkedIn](https://www.linkedin.com/in/joe-zott-1bb3111/)
 
 Specialties: Medical devices
 Handheld products
