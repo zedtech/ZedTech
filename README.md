@@ -16,7 +16,7 @@ https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
 - 2013 Gold Winner Medical Device Excellence Award Critical-Care and Emergency Medicine Products for AV400
 - 2010 Gold Winner Medical Device Excellence Award Critical-Care and Emergency Medicine Products for AV300
 
-## My augmented Reality press
+## My augmented reality press
 
 [Augmented Human: 5 Times I’ve Used Technology To Augment Myself](https://www.forbes.com/sites/cathyhackl/2020/07/05/augmented-human-5-times-ive-used-technology-to-augment-myself)
 
