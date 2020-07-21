@@ -1,6 +1,6 @@
 # Joe Zott
 
-## Medical products
+## Medical products I developed
 
 ### AccuVein AV500
 https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
@@ -9,6 +9,12 @@ https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
 ### Other AccuVein products
 - AV400
 - AV300
+
+## My Product Awards
+
+2014 SPIE Prism Award Winner Life Sciences and Biophotonics for AV400
+2013 Gold Winner Medical Device Excellence Award Critical-Care and Emergency Medicine Products for AV400
+2010 Gold Winner Medical Device Excellence Award Critical-Care and Emergency Medicine Products for AV300
 
 ## My augmented Reality press
 
