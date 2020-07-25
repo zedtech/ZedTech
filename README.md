@@ -12,9 +12,22 @@ https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
 
 ## My Product Awards
 
+A few of the awards my products have earned:
+
 - 2014 SPIE Prism Award Winner Life Sciences and Biophotonics for AV400
 - 2013 Gold Winner Medical Device Excellence Award Critical-Care and Emergency Medicine Products for AV400
 - 2010 Gold Winner Medical Device Excellence Award Critical-Care and Emergency Medicine Products for AV300
+
+## My Personal Awards
+
+Some of the awards that I have earned
+
+
+
+## Education
+
+- MSEE Univeristy of Maryland
+- BEE University of Detrot
 
 ## My augmented reality press
 
@@ -25,6 +38,19 @@ https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
 [The future of augmented reality in healthcare](https://healthmanagement.org/c/healthmanagement/issuearticle/the-future-of-augmented-reality-in-healthcare)
 
 [Why Your Business Should Pay Attention To Augmented Realty](https://www.forbes.com/sites/forbestechcouncil/2017/10/12/why-your-business-should-pay-attention-to-augmented-realty/)
+
+## My Patents
+
+I am not particularly a fan of patents, but I have some
+
+- 10,568,518 Device for detecting and illuminating the vasculature using an FPGA
+- 10,517,483 System for detecting fluorescence and projecting a representative image
+- 10,376,148 System and method for laser imaging and ablation of cancer cells using fluorescence
+- 10,376,147 System and method for multi-color laser imaging and ablation of cancer cells using fluorescence
+- 9,782,079 Device for detecting and illuminating the vasculature using an FPGA
+- 9,072,426 Device for detecting and illuminating vasculature using an FPGA
+- 8,990,856 Media playlist management and viewing remote control
+- 8,122,475 Remote control for video media servers
 
 ## More about Joe Zott
 Engineering executive with broad technical, business and market experience. Expert in rapidly putting together virtual teams to exploit business opportunities as well as manage teams for long term profitability and customer satisfaction.
