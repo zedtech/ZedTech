@@ -22,6 +22,7 @@ A few of the awards my products have earned:
 
 Some of the awards and certifications that I have earned:
 
+- Senior member IEEE
 - Tribute of Appreciation, US Department of State
 - Certificate of Exceptional Accomplishment, US Central Intelligence Agency
 - Certfied Cryptologic Engineer, US National Security Agency
