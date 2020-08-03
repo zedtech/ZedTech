@@ -11,7 +11,7 @@ https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
 - AV400
 - AV300
 
-## My Product Awards
+## My medical device product awards
 
 A few of the awards my products have earned:
 
@@ -19,7 +19,7 @@ A few of the awards my products have earned:
 - 2013 Gold Winner Medical Device Excellence Award Critical-Care and Emergency Medicine Products for AV400
 - 2010 Gold Winner Medical Device Excellence Award Critical-Care and Emergency Medicine Products for AV300
 
-## My Personal Awards
+## My personal awards
 
 Some of the awards and certifications that I have earned:
 
@@ -43,7 +43,7 @@ Some of the awards and certifications that I have earned:
 
 [Why Your Business Should Pay Attention To Augmented Realty](https://www.forbes.com/sites/forbestechcouncil/2017/10/12/why-your-business-should-pay-attention-to-augmented-realty/)
 
-## My Patents
+## My patents
 
 I am not particularly a fan of patents, but I have some
 
