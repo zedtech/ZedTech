@@ -63,15 +63,17 @@ Proven ability to deliver products under tight budget and schedule constraints w
 
 [LinkedIn](https://www.linkedin.com/in/joe-zott-1bb3111/)
 
-Specialties: Medical devices
-Handheld products
-Electro-optics
-Consumer electronics
-Wireless - consumer, industrial, defense intelligence
-Mobile computers
-Product design
-Algorithms and implementations (video, audio, and radio)
-Software (big & small) (architecture through code and test)
-Security
-Mixed signal semiconductor design
-Network protocols 
+Specialties:
+
+- Medical devices
+- Handheld products
+- Electro-optics
+- Consumer electronics
+- Wireless - consumer, industrial, defense intelligence
+- Mobile computers
+- Product design
+- Algorithms and implementations (video, audio, and radio)
+- Software (big & small) (architecture through code and test)
+- Security
+- Mixed signal semiconductor design
+- Network protocols 
