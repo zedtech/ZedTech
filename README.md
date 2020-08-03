@@ -7,7 +7,7 @@ https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
 ![AV500](/zedtech/ZedTech/blob/master/MG_0088-e1550594306785.jpg)
 
 
-### Other AccuVein products
+### Other AccuVein products I developed
 - AV400
 - AV300
 
