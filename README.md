@@ -78,7 +78,8 @@ Technical specialties:
 - Mixed signal semiconductor design
 - Network protocols 
 
-Other skills:
+Other business specialities:
 - Business development, marketing, and sales
 - Medical device world-wide regulatory procedures and approvals
+- Business financial operations - fund raising, accounting
 - Customer support and complaint management
