@@ -63,7 +63,7 @@ Proven ability to deliver products under tight budget and schedule constraints w
 
 [LinkedIn](https://www.linkedin.com/in/joe-zott-1bb3111/)
 
-Specialties:
+Technical specialties:
 
 - Medical devices
 - Handheld products
@@ -77,3 +77,8 @@ Specialties:
 - Security
 - Mixed signal semiconductor design
 - Network protocols 
+
+Other skills:
+- Business development, marketing, and sales
+- Medical device world-wide regulatory procedures and approvals
+- Customer support and complaint management
