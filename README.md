@@ -11,7 +11,7 @@ https://www.accuvein.com/products/catalog/av500-vein-viewing-system/
 - AV400
 - AV300
 
-## My medical device product awards
+## Medical device product awards
 
 A few of the awards my products have earned:
 
@@ -24,6 +24,7 @@ A few of the awards my products have earned:
 Some of the awards and certifications that I have earned:
 
 - Senior member IEEE
+- Graduate School Fellowship, US National Security Agency
 - Tribute of Appreciation, US Department of State
 - Certificate of Exceptional Accomplishment, US Central Intelligence Agency
 - Certfied Cryptologic Engineer, US National Security Agency
